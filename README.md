@@ -8,5 +8,4 @@ Pokud rozezná pohyb ruky, červená dioda zhasne. Večer vypustí creatin a dal
 
  
 * Hardwarové požadavky
-** Arduino
-  deska
+  * Arduino deska
